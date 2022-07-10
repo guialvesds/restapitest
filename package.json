@@ -1,0 +1,23 @@
+{
+  "name": "restapitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guialvesds/restapitest.git"
+  },
+  "keywords": [],
+  "author": "Guilherme Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guialvesds/restapitest/issues"
+  },
+  "homepage": "https://github.com/guialvesds/restapitest#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
